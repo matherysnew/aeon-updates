@@ -1,0 +1,14 @@
+{
+  "version": "1.6",
+  "versionCode": 9,
+  "message": "🎉 Nova versão disponível! Sistema de notificações de atualização implementado.",
+  "releaseDate": "2025-11-22",
+  "features": [
+    "✅ Sistema de pagamento Premium corrigido",
+    "✅ Notificações de atualização automáticas",
+    "✅ Versão do app atualizada automaticamente",
+    "✅ Melhorias de performance"
+  ],
+  "minAndroidVersion": 24,
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jhonatafranca.aeon"
+}
