@@ -1,13 +1,15 @@
 {
-  "version": "1.6",
-  "versionCode": 9,
-  "message": "🎉 Nova versão disponível! Sistema de notificações de atualização implementado.",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "message": "🎉 Lançamento oficial do Aeon Music Player! Reproduza suas músicas locais e descubra faixas grátis.",
   "releaseDate": "2025-11-22",
   "features": [
-    "✅ Sistema de pagamento Premium corrigido",
-    "✅ Notificações de atualização automáticas",
-    "✅ Versão do app atualizada automaticamente",
-    "✅ Melhorias de performance"
+    "✅ Player de música offline completo",
+    "✅ 50 músicas grátis via Jamendo",
+    "✅ Sistema Premium com assinatura",
+    "✅ Temas personalizados",
+    "✅ Login com Google",
+    "✅ Suporte a MP3, M4A, FLAC e mais"
   ],
   "minAndroidVersion": 24,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jhonatafranca.aeon"
