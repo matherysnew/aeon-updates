@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "versionCode": 1,
+  \"version\": \"1.7\",
+  \"versionCode\": 10,
   "message": "🎉 Lançamento oficial do Aeon Music Player! Reproduza suas músicas locais e descubra faixas grátis.",
   "releaseDate": "2025-11-22",
   "features": [
